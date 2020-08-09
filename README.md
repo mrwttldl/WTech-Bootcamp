@@ -1,2 +1,2 @@
-# WTech-Homeworks
-My homework with python for the WTech Data Science Program
+# WTech-Bootcamp
+My working with python for the WTech Data Science Program
